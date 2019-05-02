@@ -2,9 +2,9 @@ package io.javabrains.moviecatalogservice.models;
 
 public class Rating {
 
-    private String movieId;
-    private int rating;
-
+    	private String movieId;
+    	private int rating;
+	private String MovName;
     public Rating() {
 
     }
