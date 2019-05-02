@@ -4,6 +4,7 @@ public class CatalogItem {
     private String name;
     private String desc;
     private int rating;
+    private String type;
 
     public CatalogItem(String name, String desc, int rating) {
         this.name = name;
